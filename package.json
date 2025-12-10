@@ -12,7 +12,7 @@
     "react-dom": "^19.2.0",
     "react-scripts": "^0.0.0",
     "web-vitals": "^2.1.4",
-    "homepage": "https://iperez-bonet.github.io/42-guided-practice-lab"
+    "homepage": "https://iperez-bonet.github.io/4.2-guided-practice-lab"
   },
   "scripts": {
     "start": "react-scripts start",
